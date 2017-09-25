@@ -1,0 +1,69 @@
+body {	
+	font-family: 'Inconsolata', monospace;
+	padding: 50px;
+	border-bottom: solid;
+}
+
+header {
+  padding: 10px;
+  border-top: solid;
+  text-align: center;
+  color: black;
+  font-family: 'Inconsolata', monospace;
+}
+
+div {
+  padding: 20px;
+  border-top: solid;
+  border-width: thin;
+}
+
+p {
+  padding: 10px;
+}
+
+.portfolio-link {
+  color: black;
+}
+
+.about-link {
+  color: black;
+}
+
+.profile-photo {
+	float: right;
+	margin: 20px;
+	border: solid;
+	border-width: thin;
+}
+.facebook-link {
+	color: black;
+	text-decoration: underline;
+	font-family: 'Inconsolata', monospace;
+	padding: 30px;
+}
+
+.linkedin-link {
+	color: black;
+	text-decoration: underline;
+	font-family: 'Inconsolata', monospace;
+	padding: 30px;
+}
+
+.instagram-link {
+	color: black;
+	text-decoration: underline;
+	font-family: 'Inconsolata', monospace;
+	padding: 30px
+}
+
+img {
+	margin: 20px;
+}
+
+footer {
+	text-align: center;
+	border-top: solid;
+	border-width: thin;
+	width: 70%
+}
